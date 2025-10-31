@@ -1,0 +1,5 @@
+PyMuPDF
+Pillow
+GitPython
+customtkinter
+pywin32
