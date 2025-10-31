@@ -1,5 +1,4 @@
-import fitz  # PyMuPDF
-import json
+import fitz, json, re
 from utils import resource_path
 
 def process_pdf(pdf_path):
@@ -7,6 +6,9 @@ def process_pdf(pdf_path):
     doc = fitz.open(pdf_path)
     text = "".join(page.get_text() for page in doc)
     doc.close()
+    #Remove quebra de linha e espaçamento
+    text = text.replace('\n', '')
+    text = re.sub(r'\s+', '', text)
 
     # Lê o JSON
     json_path = resource_path("data/keywords.json")
