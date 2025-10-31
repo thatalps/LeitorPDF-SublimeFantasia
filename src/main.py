@@ -1,10 +1,11 @@
 import customtkinter as ctk
+import os, sys
 from printer_config import PrinterConfig
 from tkinter import filedialog, messagebox
 from pdf_reader import process_pdf
 from printer import print_image
 from sync import check_updates, pull_updates
-import os, sys
+
 
 class App(ctk.CTk):
     def __init__(self):

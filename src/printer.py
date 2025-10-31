@@ -1,8 +1,6 @@
-from PIL import Image, ImageWin
-import win32print
-import win32ui
+import win32print, win32ui
 from utils import resource_path
-
+from PIL import Image, ImageWin
 def print_image(image_path, printer_name, fit_a4=True, horizontal=True):
     try:
         # Ajusta o caminho da imagem
