@@ -1,9 +1,59 @@
 {
+  "QCALADIN-A1": "data/images/aladin/aladin - arte 1.jpg",
+  "QCALADIN-A2": "data/images/aladin/aladin - arte 2.jpg",
+  "QCALADIN-A3": "data/images/aladin/aladin - arte 3.jpg",
+  "QCALADIN-A4": "data/images/aladin/aladin - arte 4.jpg",
+  "QCALADIN-A5": "data/images/aladin/aladin - arte 5.jpg",
+  "QCALADIN-A6": "data/images/aladin/aladin - arte 6.jpg",
+
   "QCATHOS ": "data/images/athos/athos.jpg",
 
-  "QCROBLOX-A1":"data/images/roblox/roblox - arte1.jpg",
-  "QCROBLOX-A2":"data/images/roblox/roblox - arte2.jpg",
-  "QCROBLOX-A3":"data/images/roblox/roblox - arte1.jpg",
+  "QCBARBIE-A1": "data/images/barbie/barbie - arte 1.jpg",
+  "QCBARBIE-A2": "data/images/barbie/barbie - arte 2.jpg",
+  "QCBARBIE-A3": "data/images/barbie/barbie - arte 3.jpg",
+  "QCBARBIE-A4": "data/images/barbie/barbie - arte 4.jpg",
+  "QCBARBIE-A5": "data/images/barbie/barbie - arte 5.jpg",
+  "QCBARBIE-A6": "data/images/barbie/barbie - arte 6.jpg",
+
+  "QCBATMAN-A1": "data/images/batman/batman - arte 1.jpg",
+  "QCBATMAN-A2": "data/images/batman/batman - arte 2.jpg",
+  "QCBATMAN-A3": "data/images/batman/batman - arte 3.jpg",
+  "QCBATMAN-A4": "data/images/batman/batman - arte 4.jpg",
+
+  "QCBELAADORMECIDA-A1": "data/images/bela adormecida/bela adormecida - arte 1.jpg",
+  "QCBELAADORMECIDA-A2": "data/images/bela adormecida/bela adormecida - arte 2.jpg",
+  "QCBELAADORMECIDA-A3": "data/images/bela adormecida/bela adormecida - arte 3.jpg",
+
+  "QCBELAEAFERA-A1": "data/images/bela e a fera/bela e a fera - arte 1.jpg",
+  "QCBELAEAFERA-A2": "data/images/bela e a fera/bela e a fera - arte 2.jpg",
+  "QCBELAEAFERA-A3": "data/images/bela e a fera/bela e a fera - arte 3.jpg",
+  "QCBELAEAFERA-A4": "data/images/bela e a fera/bela e a fera - arte 4.jpg",
+
+  "QCBEN10-A1": "data/images/ben 10/ben 10 - arte 1.jpg",
+  "QCBEN10-A2": "data/images/ben 10/ben 10 - arte 2.jpg",
+  "QCBEN10-A3": "data/images/ben 10/ben 10 - arte 3.jpg",
+  "QCBEN10-A4": "data/images/ben 10/ben 10 - arte 4.jpg",
+  "QCBEN10-A5": "data/images/ben 10/ben 10 - arte 5.jpg",
+  "QCBEN10-A6": "data/images/ben 10/ben 10 - arte 6.jpg",
+  "QCBEN10-A7": "data/images/ben 10/ben 10 - arte 7.jpg",
+
+  "QCBOBESPONJA-A1": "data/images/bob esponja/bob esponja - arte 1.jpg",
+  "QCBOBESPONJA-A2": "data/images/bob esponja/bob esponja - arte 2.jpg",
+  "QCBOBESPONJA-A3": "data/images/bob esponja/bob esponja - arte 3.jpg",
+  "QCBOBESPONJA-A4": "data/images/bob esponja/bob esponja - arte 4.jpg",
+  "QCBOBESPONJA-A5": "data/images/bob esponja/bob esponja - arte 5.jpg",
+  "QCBOBESPONJA-A6": "data/images/bob esponja/bob esponja - arte 6.jpg",
+
+  "QCBRANCADENEVE-A1": "data/images/branca de neve/branca de neve - arte 1.jpg",
+  "QCBRANCADENEVE-A2": "data/images/branca de neve/branca de neve - arte 2.jpg",
+  "QCBRANCADENEVE-A3": "data/images/branca de neve/branca de neve - arte 3.jpg",
+  "QCBRANCADENEVE-A4": "data/images/branca de neve/branca de neve - arte 4.jpg",
+  "QCBRANCADENEVE-A5": "data/images/branca de neve/branca de neve - arte 5.jpg",
+  "QCBRANCADENEVE-A6": "data/images/branca de neve/branca de neve - arte 6.jpg",
+
+  "QCROBLOX-A1":"data/images/roblox/roblox - arte 1.jpg",
+  "QCROBLOX-A2":"data/images/roblox/roblox - arte 2.jpg",
+  "QCROBLOX-A3":"data/images/roblox/roblox - arte 3.jpg",
 
   "QCPRINCESAS-A1": "data/imagens/princesas/princesa1.png"
 
