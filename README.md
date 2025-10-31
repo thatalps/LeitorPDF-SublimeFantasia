@@ -4,4 +4,5 @@ Este projeto é uma aplicação desktop local desenvolvida em Python que lê o c
 
 O sistema possui uma interface básica (Tkinter + CustomTkinter) e permite escolher a impressora, ajusta o tamanho das imagens para folha A4, imprime na horizontal, e até verifica atualizações automáticas via GitHub.
 
-OBS.: Foi feito sob medida para a produção da loja Sublime Fantasia.
+OBS.: Foi feito sob medida para a produção da loja Sublime Fantasia Artesanatos LTDA.
+
