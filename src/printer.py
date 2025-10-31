@@ -1,9 +1,12 @@
 from PIL import Image, ImageWin
 import win32print
 import win32ui
+from utils import resource_path
 
 def print_image(image_path, printer_name, fit_a4=True, horizontal=True):
     try:
+        # Ajusta o caminho da imagem
+        full_path = resource_path(image_path)
         # Abre a imagem
         img = Image.open(image_path)
 

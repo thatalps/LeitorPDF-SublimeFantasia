@@ -1,15 +1,16 @@
 import fitz  # PyMuPDF
 import json
+from utils import resource_path
 
 def process_pdf(pdf_path):
     # Lê o texto do PDF
     doc = fitz.open(pdf_path)
     text = "".join(page.get_text() for page in doc)
-    print(text)
     doc.close()
 
     # Lê o JSON
-    with open("data/keywords.json", "r", encoding="utf-8") as f:
+    json_path = resource_path("data/keywords.json")
+    with open(json_path, "r", encoding="utf-8") as f:
         keywords = json.load(f)
 
     counts = {}
