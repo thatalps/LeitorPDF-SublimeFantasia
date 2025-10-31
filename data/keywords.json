@@ -1,6 +1,6 @@
 {
-  "QCATHOS ": ["data/images/QCATHOS.jpg","data/images/QCATHOS.jpg" ],
-  "QCATHOS-A1": "data/images/QCATHOS.jpg",
-  "QCPRINCESAS-A2 ": "data/imagens/princesas/princesa1.png",
-  "QCSTARWARS-A3": "data/imagens/outros/starwars1.png"
+  "QCATHOS ": "data/images/athos.jpg",
+
+  "QCPRINCESAS-A1": "data/imagens/princesas/princesa1.png"
+
 }
