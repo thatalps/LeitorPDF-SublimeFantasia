@@ -6,7 +6,7 @@
   "QCALADIN-A5": "data/images/aladin/aladin - arte 5.jpg",
   "QCALADIN-A6": "data/images/aladin/aladin - arte 6.jpg",
 
-  "QCATHOS ": "data/images/athos/athos.jpg",
+  "QCATHOS-A1": "data/images/athos/athos.jpg",
 
   "QCBARBIE-A1": "data/images/barbie/barbie - arte 1.jpg",
   "QCBARBIE-A2": "data/images/barbie/barbie - arte 2.jpg",
@@ -51,10 +51,195 @@
   "QCBRANCADENEVE-A5": "data/images/branca de neve/branca de neve - arte 5.jpg",
   "QCBRANCADENEVE-A6": "data/images/branca de neve/branca de neve - arte 6.jpg",
 
+  "QCCAPAMERICA-A1":"data/images/capitao america/capitão américa - arte 1.jpg",
+  "QCCAPAMERICA-A2":"data/images/capitao america/capitão américa - arte 2.jpg",
+
+  "QCCINDERELA-A1":"data/images/cinderela/cinderela - arte 1.jpg",
+  "QCCINDERELA-A2":"data/images/cinderela/cinderela - arte 2.jpg",
+  "QCCINDERELA-A3":"data/images/cinderela/cinderela - arte 3.jpg",
+  "QCCINDERELA-A4":"data/images/cinderela/cinderela - arte 4.jpg",
+
+  "QCDRAGAO-A1":"data/images/como treinar o seu dragao/como treinar o seu dragão - arte 1.jpg",
+  "QCDRAGAO-A2":"data/images/como treinar o seu dragao/como treinar o seu dragão - arte 2.jpg",
+  "QCDRAGAO-A3":"data/images/como treinar o seu dragao/como treinar o seu dragão - arte 3.jpg",
+
+  "QCDINOBABY-A1":"data/images/dino baby/dino baby - arte 1.jpg",
+  "QCDINOBABY-A2":"data/images/dino baby/dino baby - arte 2.jpg",
+  "QCDINOBABY-A3":"data/images/dino baby/dino baby - arte 3.jpg",
+
+  "QCDIVERTIDAMENTE-A1":"data/images/divertidamente/divertidamente - arte 1.jpg",
+  "QCDIVERTIDAMENTE-A2":"data/images/divertidamente/divertidamente - arte 2.jpg",
+  "QCDIVERTIDAMENTE-A3":"data/images/divertidamente/divertidamente - arte 3.jpg",
+
+  "QCDRAGONBALL-A1":"data/images/dragon ball/dragon ball - arte 1.jpg",
+  "QCDRAGONBALL-A2":"data/images/dragon ball/dragon ball - arte 2.jpg",
+  "QCDRAGONBALL-A3":"data/images/dragon ball/dragon ball - arte 3.jpg",
+  "QCDRAGONBALL-A4":"data/images/dragon ball/dragon ball - arte 4.jpg",
+  "QCDRAGONBALL-A5":"data/images/dragon ball/dragon ball - arte 5.jpg",
+  "QCDRAGONBALL-A6":"data/images/dragon ball/dragon ball - arte 6.jpg",
+
+  "QCENCANTO-A1":"data/images/encanto/encanto - arte 1.jpg",
+  "QCENCANTO-A2":"data/images/encanto/encanto - arte 2.jpg",
+  "QCENCANTO-A3":"data/images/encanto/encanto - arte 3.jpg",
+  "QCENCANTO-A4":"data/images/encanto/encanto - arte 4.jpg",
+  "QCENCANTO-A5":"data/images/encanto/encanto - arte 5.jpg",
+
+  "QCFROZEN-A1":"data/images/frozen/frozen - arte 1.jpg",
+  "QCFROZEN-A2":"data/images/frozen/frozen - arte 2.jpg",
+  "QCFROZEN-A3":"data/images/frozen/frozen - arte 3.jpg",
+
+  "QCGALINHAPINTADINHA-A1":"data/images/galinha pintadinha/galinha pintadinha - arte 1.jpg",
+  "QCGALINHAPINTADINHA-A2":"data/images/galinha pintadinha/galinha pintadinha - arte 2.jpg",
+  "QCGALINHAPINTADINHA-A3":"data/images/galinha pintadinha/galinha pintadinha - arte 3.jpg",
+  "QCGALINHAPINTADINHA-A4":"data/images/galinha pintadinha/galinha pintadinha - arte 4.jpg",
+  "QCGALINHAPINTADINHA-A5":"data/images/galinha pintadinha/galinha pintadinha - arte 5.jpg",
+
+  "QCGATINHAMARIE-A1":"data/images/gatinha marie/gatinha marie - arte 1.jpg",
+  "QCGATINHAMARIE-A2":"data/images/gatinha marie/gatinha marie - arte 2.jpg",
+  "QCGATINHAMARIE-A3":"data/images/gatinha marie/gatinha marie - arte 3.jpg",
+
+  "QCHOMEMARANHA-A1":"data/images/homem aranha/homem aranha - arte 1.jpg",
+  "QCHOMEMARANHA-A2":"data/images/homem aranha/homem aranha - arte 2.jpg",
+  "QCHOMEMARANHA-A3":"data/images/homem aranha/homem aranha - arte 3.jpg",
+  "QCHOMEMARANHA-A4":"data/images/homem aranha/homem aranha - arte 4.jpg",
+  "QCHOMEMARANHA-A5":"data/images/homem aranha/homem aranha - arte 5.jpg",
+  "QCHOMEMARANHA-A6":"data/images/homem aranha/homem aranha - arte 6.jpg",
+
+  "QCHORADEAVENTURA-A1":"data/images/hora de aventura/hora de aventura - arte 1.jpg",
+  "QCHORADEAVENTURA-A2":"data/images/hora de aventura/hora de aventura - arte 2.jpg",
+  "QCHORADEAVENTURA-A3":"data/images/hora de aventura/hora de aventura - arte 3.jpg",
+  "QCHORADEAVENTURA-A4":"data/images/hora de aventura/hora de aventura - arte 4.jpg",
+
+  "QCHULK-A1":"data/images/hulk/hulk - arte 1.jpg",
+  "QCHULK-A2":"data/images/hulk/hulk - arte 2.jpg",
+  "QCHULK-A3":"data/images/hulk/hulk - arte 3.jpg",
+
+  "QCJURASSICWORLD-A1":"data/images/jurassic world/jurassic world - arte 1.jpg",
+  "QCJURASSICWORLD-A2":"data/images/jurassic world/jurassic world - arte 2.jpg",
+  "QCJURASSICWORLD-A3":"data/images/jurassic world/jurassic world - arte 3.jpg",
+  "QCJURASSICWORLD-A4":"data/images/jurassic world/jurassic world - arte 4.jpg",
+  "QCJURASSICWORLD-A5":"data/images/jurassic world/jurassic world - arte 5.jpg",
+
+  "QCLADYBUG-A1":"data/images/ladybug/ladybug - arte 1.jpg",
+  "QCLADYBUG-A2":"data/images/ladybug/ladybug - arte 2.jpg",
+  "QCLADYBUG-A3":"data/images/ladybug/ladybug - arte 3.jpg",
+
+  "QCSTITCH-A1":"data/images/lilo e stitch/lilo - arte 1.jpg",
+  "QCSTITCH-A2":"data/images/lilo e stitch/lilo - arte 2.jpg",
+  "QCSTITCH-A3":"data/images/lilo e stitch/lilo - arte 3.jpg",
+  "QCSTITCH-A4":"data/images/lilo e stitch/lilo - arte 4.jpg",
+  "QCSTITCH-A5":"data/images/lilo e stitch/lilo - arte 5.jpg",
+  "QCSTITCH-A6":"data/images/lilo e stitch/lilo - arte 6.jpg",
+  "QCSTITCH-A7":"data/images/lilo e stitch/lilo - arte 7.jpg",
+  "QCSTITCH-A8":"data/images/lilo e stitch/lilo - arte 8.jpg",
+  "QCSTITCH-A9":"data/images/lilo e stitch/lilo - arte 9.jpg",
+  "QCSTITCH-A10":"data/images/lilo e stitch/lilo - arte 10.jpg",
+  "QCSTITCH-A11":"data/images/lilo e stitch/lilo - arte 11.jpg",
+  "QCSTITCH-A12":"data/images/lilo e stitch/lilo - arte 12.jpg",
+  "QCSTITCH-A13":"data/images/lilo e stitch/lilo - arte 13.jpg",
+
+  "QCMARIO-A1":"data/images/mario/mario - arte 1.jpg",
+  "QCMARIO-A2":"data/images/mario/mario - arte 2.jpg",
+  "QCMARIO-A3":"data/images/mario/mario - arte 3.jpg",
+  "QCMARIO-A4":"data/images/mario/mario - arte 4.jpg",
+  "QCMARIO-A5":"data/images/mario/mario - arte 5.jpg",
+  "QCMARIO-A6":"data/images/mario/mario - arte 6.jpg",
+
+  "QCSUPERPODEROSAS-A1":"data/images/meninas super poderosas/meninas super poderosas - arte 1.jpg",
+  "QCSUPERPODEROSAS-A2":"data/images/meninas super poderosas/meninas super poderosas - arte 2.jpg",
+  "QCSUPERPODEROSAS-A3":"data/images/meninas super poderosas/meninas super poderosas - arte 3.jpg",
+  "QCSUPERPODEROSAS-A4":"data/images/meninas super poderosas/meninas super poderosas - arte 4.jpg",
+
+  "QCDISNEY-A1":"data/images/mickey e minnie/mickey - arte 1.jpg",
+  "QCDISNEY-A2":"data/images/mickey e minnie/mickey - arte 2.jpg",
+  "QCDISNEY-A3":"data/images/mickey e minnie/mickey - arte 3.jpg",
+  "QCDISNEY-A4":"data/images/mickey e minnie/mickey - arte 4.jpg",
+
+  "QCMINECRAFT-A1":"data/images/minecraft/minecraft - arte 1.jpg",
+  "QCMINECRAFT-A2":"data/images/minecraft/minecraft - arte 2.jpg",
+  "QCMINECRAFT-A3":"data/images/minecraft/minecraft - arte 3.jpg",
+  "QCMINECRAFT-A4":"data/images/minecraft/minecraft - arte 4.jpg",
+
+  "QCMOANA-A1":"data/images/moana/moana - arte 1.jpg",
+  "QCMOANA-A2":"data/images/moana/moana - arte 2.jpg",
+  "QCMOANA-A3":"data/images/moana/moana - arte 3.jpg",
+
+  "QCMULAN-A1":"data/images/mulan/mulan - arte 1.jpg",
+  "QCMULAN-A2":"data/images/mulan/mulan - arte 2.jpg",
+  "QCMULAN-A3":"data/images/mulan/mulan - arte 3.jpg",
+  "QCMULAN-A4":"data/images/mulan/mulan - arte 4.jpg",
+
+  "QCINCRIVEIS-A1":"data/images/os incriveis/os incriveis - arte 1.jpg",
+  "QCINCRIVEIS-A2":"data/images/os incriveis/os incriveis - arte 2.jpg",
+
+  "QCPATRULHA-A1":"data/images/patrulha canina/patrulha canina - arte 1.jpg",
+  "QCPATRULHA-A2":"data/images/patrulha canina/patrulha canina - arte 2.jpg",
+  "QCPATRULHA-A3":"data/images/patrulha canina/patrulha canina - arte 3.jpg",
+
+  "QCPEPPAPIG-A1":"data/images/peppa pig/peppa pig - arte 1.jpg",
+  "QCPEPPAPIG-A2":"data/images/peppa pig/peppa pig - arte 2.jpg",
+  "QCPEPPAPIG-A3":"data/images/peppa pig/peppa pig - arte 3.jpg",
+  "QCPEPPAPIG-A4":"data/images/peppa pig/peppa pig - arte 4.jpg",
+  "QCPEPPAPIG-A5":"data/images/peppa pig/peppa pig - arte 5.jpg",
+  "QCPEPPAPIG-A6":"data/images/peppa pig/peppa pig - arte 6.jpg",
+  "QCPEPPAPIG-A7":"data/images/peppa pig/peppa pig - arte 7.jpg",
+
+  "QCPOCAHONTAS-A1":"data/images/pocahontas/pocahontas - arte 1.jpg",
+  "QCPOCAHONTAS-A2":"data/images/pocahontas/pocahontas - arte 2.jpg",
+  "QCPOCAHONTAS-A3":"data/images/pocahontas/pocahontas - arte 3.jpg",
+  "QCPOCAHONTAS-A4":"data/images/pocahontas/pocahontas - arte 4.jpg",
+
+  "QCPRINCESAS-A1":"data/images/princesas/princesas - arte 1.jpg",
+  "QCPRINCESAS-A2":"data/images/princesas/princesas - arte 2.jpg",
+  "QCPRINCESAS-A3":"data/images/princesas/princesas - arte 3.jpg",
+  "QCPRINCESAS-A4":"data/images/princesas/princesas - arte 4.jpg",
+
+  "QCREILEAO-A1":"data/images/rei leao/rei leao - arte 1.jpg",
+  "QCREILEAO-A2":"data/images/rei leao/rei leao - arte 2.jpg",
+  "QCREILEAO-A3":"data/images/rei leao/rei leao - arte 3.jpg",
+  "QCREILEAO-A4":"data/images/rei leao/rei leao - arte 4.jpg",
+
   "QCROBLOX-A1":"data/images/roblox/roblox - arte 1.jpg",
   "QCROBLOX-A2":"data/images/roblox/roblox - arte 2.jpg",
   "QCROBLOX-A3":"data/images/roblox/roblox - arte 3.jpg",
 
-  "QCPRINCESAS-A1": "data/imagens/princesas/princesa1.png"
+  "QCSONIC-A1":"data/images/sonic/sonic - arte 1.jpg",
+  "QCSONIC-A2":"data/images/sonic/sonic - arte 2.jpg",
+  "QCSONIC-A3":"data/images/sonic/sonic - arte 3.jpg",
+  "QCSONIC-A4":"data/images/sonic/sonic - arte 4.jpg",
+  "QCSONIC-A5":"data/images/sonic/sonic - arte 5.jpg",
+  "QCSONIC-A6":"data/images/sonic/sonic - arte 6.jpg",
+
+  "QCSUPERWINGS-A1":"data/images/super wings/super wings - arte 1.jpg",
+  "QCSUPERWINGS-A2":"data/images/super wings/super wings - arte 2.jpg",
+
+  "QCTHOR-A1":"data/images/thor/thor - arte 1.jpg",
+  "QCTHOR-A2":"data/images/thor/thor - arte 2.jpg",
+
+  "QCTOMJERRY-A1":"data/images/tom e jerry/tom e jerry - arte 1.jpg",
+  "QCTOMJERRY-A2":"data/images/tom e jerry/tom e jerry - arte 2.jpg",
+  "QCTOMJERRY-A3":"data/images/tom e jerry/tom e jerry - arte 3.jpg",
+  "QCTOMJERRY-A4":"data/images/tom e jerry/tom e jerry - arte 4.jpg",
+
+  "QCTRANSFORMERS-A1":"data/images/transformers/transformers - arte 1.jpg",
+  "QCTRANSFORMERS-A2":"data/images/transformers/transformers - arte 2.jpg",
+  "QCTRANSFORMERS-A3":"data/images/transformers/transformers - arte 3.jpg",
+  "QCTRANSFORMERS-A4":"data/images/transformers/transformers - arte 4.jpg",
+  "QCTRANSFORMERS-A5":"data/images/transformers/transformers - arte 5.jpg",
+  "QCTRANSFORMERS-A6":"data/images/transformers/transformers - arte 6.jpg",
+  "QCTRANSFORMERS-A7":"data/images/transformers/transformers - arte 7.jpg",
+  "QCTRANSFORMERS-A8":"data/images/transformers/transformers - arte 8.jpg",
+  "QCTRANSFORMERS-A9":"data/images/transformers/transformers - arte 9.jpg",
+
+  "QCUNICORNIO-A1":"data/images/unicornio fofo/unicornio fofo - arte 1.jpg",
+  "QCUNICORNIO-A2":"data/images/unicornio fofo/unicornio fofo - arte 2.jpg",
+
+  "QCVALENTE-A1":"data/images/valente/valente - arte 1.jpg",
+  "QCVALENTE-A2":"data/images/valente/valente - arte 2.jpg",
+  "QCVALENTE-A3":"data/images/valente/valente - arte 3.jpg",
+
+  "QCVINGADORES-A1":"data/images/vingadores/vingadores - arte 1.jpg",
+  "QCVINGADORES-A2":"data/images/vingadores/vingadores - arte 2.jpg",
+  "QCVINGADORES-A3":"data/images/vingadores/vingadores - arte 3.jpg",
 
 }
