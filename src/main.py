@@ -1,5 +1,6 @@
 import customtkinter as ctk
 from printer_config import PrinterConfig
+from tkinter import filedialog, messagebox
 from pdf_reader import process_pdf
 from printer import print_image
 from sync import check_updates, pull_updates
@@ -9,7 +10,7 @@ class App(ctk.CTk):
     def __init__(self):
         super().__init__()
         self.title("Leitor PDF - Impressão Automática")
-        self.geometry("600x500")
+        self.geometry("600x400")
 
         # Configurações da impressora
         self.printer_config = PrinterConfig(self)
@@ -18,18 +19,13 @@ class App(ctk.CTk):
         self.label.pack(pady=50)
 
         # Botões principais
-        self.btn_open = ctk.CTkButton(self, text="📂 Abrir PDF", command=self.open_pdf)
-        self.btn_open.pack(pady=0)
-
+        self.btn_open = ctk.CTkButton(self, text="📂 Inserir PDF", font=("Arial", 16), command=self.open_pdf)
+        self.btn_open.pack(pady=10)
 
         self.btn_check_updates = ctk.CTkButton(self, text="🔄 Verificar atualizações", command=self.verify_updates)
-        self.btn_check_updates.pack(pady=50)
-
-        self.btn_update = ctk.CTkButton(self, text="⬇ Atualizar e Reiniciar", command=self.update_and_restart, state="disabled")
-        self.btn_update.pack(pady=0)
+        self.btn_check_updates.pack(pady=30)
 
     def open_pdf(self):
-        from tkinter import filedialog, messagebox
 
         # 1️⃣ Abre a janela para selecionar o PDF
         pdf_path = filedialog.askopenfilename(filetypes=[("PDF files", "*.pdf")])
@@ -71,18 +67,23 @@ class App(ctk.CTk):
 
     def verify_updates(self):
         repo_path = os.getcwd()
-        if check_updates(repo_path):
-            self.btn_update.configure(state="normal")
-            messagebox.showinfo("Atualização", "Nova versão disponível!")
-        else:
-            messagebox.showinfo("Atualização", "Nenhuma atualização encontrada.")
-
+        try:
+            if check_updates(repo_path):
+                resposta = messagebox.askyesno("Atualização disponível", "Nova versão disponível!\n\nDeseja atualizar e reiniciar agora?")
+                if resposta:
+                    self.update_and_restart()
+            else:
+                messagebox.showinfo("Atualização", "Nenhuma atualização encontrada.")
+        except Exception as e:
+            messagebox.showerror("Erro", f"Ocorreu um erro ao verificar atualizações:\n{e}")
     def update_and_restart(self):
         repo_path = os.getcwd()
-        pull_updates(repo_path)
-        messagebox.showinfo("Atualização", "Aplicação atualizada! Reiniciando...")
-        os.execv(sys.executable, ['python'] + sys.argv)
-
+        try:
+            pull_updates(repo_path)
+            messagebox.showinfo("Atualização", "Aplicação atualizada com sucesso!\nReiniciando...")
+            os.execv(sys.executable, ['python'] + sys.argv)
+        except Exception as e:
+            messagebox.showerror("Erro", f"Falha ao atualizar:\n{e}")
 if __name__ == "__main__":
     app = App()
     app.mainloop()
